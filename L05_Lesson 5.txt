@@ -1,0 +1,139 @@
+Lesson 5
+
+5.1 Sentences with nominal predicates
+
+A second type of non-verbal sentence is illustrated by
+
+ⲚⲀⲈⲒⲰⲦ ⲠⲈ.		He is my father. It is my father.
+ⲦⲀⲘⲀⲀⲨ ⲦⲈ.		She (It) is my mother.
+ⲚⲀⲤⲚⲎⲨ ⲚⲈ.		They are (It is) my brothers.
+ⲞⲨⲢⲰⲘⲈ ⲠⲈ.		He (It) is a man.
+ⲞⲨⲤϨⲒⲘⲈ ⲦⲈ.		She (It) is a woman.
+ϨⲈⲚⲈϪⲎⲨ ⲚⲈ.	They are (It is) ships.
+
+The pronominal subject is expressed by ⲠⲈ (m.s.), ⲦⲈ (f.s.), and ⲚⲈ (pl.), the choice of which depends usually on the gender and number of the predicate noun. Simple two-member sentences like the above are relatively rare except in response to such questions as "Who is that?" "What are these?" where an answer giving the predicate alone is sufficient, the subject being understood from the context. Modifiers of the predicate, such as a genitive phrase, may optionally stand after the pronominal subject:
+
+ⲠⲢⲰⲘⲈ ⲠⲈ Ⲙ̄ ⲠⲞⲨⲎⲎⲂ.	He is the son of the priest.
+
+A nominal subject may be added to the basic predication, producing a three-member sentence in which ⲠⲈ, ⲦⲈ, ⲚⲈ are reduced virtually to the status of a copula. If the predicate is indefinite, the order is almost always predicate + ⲠⲈ, the subject being placed before or after the whole unit:
+
+ⲞⲨⲤⲀϨ ⲠⲈ ⲠⲀⲈⲒⲰⲦ.	}	My father is a teacher.	
+ⲠⲀⲈⲒⲰⲦ ⲞⲨⲤⲀϨ ⲠⲈ.	}
+
+If the subject and predicate are both definite, the normal position of ⲠⲈ, ⲦⲈ, ⲚⲈ is between them:
+
+ⲠⲈⲒⲢⲰⲘⲈ ⲠⲈ ⲠⲈⲚⲤⲀϨ.	This man is our teacher.
+
+Identification of subject and predicate in this case can be made only on a contextual basis. The rarer order, ⲠⲈⲒⲢⲰⲘⲈ ⲠⲈⲚⲤⲀϨ ⲠⲈ, places an emphasis on the real subject: "As for this man, he is our teacher."
+
+In the event that there is a disagreement in the number or gender of subject and predicate, the copula ⲠⲈ, ⲦⲈ, ⲚⲈ usually assumes the number and gender of the noun preceding it.
+
+All of the preceding sentences are negated by placing Ⲛ̄ (Ⲙ̄) before the predicate and ⲀⲚ before the ⲠⲈ, ⲦⲈ, ⲚⲈ:
+
+Ⲙ̄ ⲠⲀⲈⲒⲰⲦ ⲀⲚ ⲠⲈ.			It is not my father.
+ⲠⲀⲈⲒⲰⲦ Ⲛ̄ ⲞⲨⲦⲤⲀϨ ⲀⲚ ⲠⲈ.	My father is not a teacher.
+Ⲙ̄ ⲠⲈⲚⲤⲀϨ ⲀⲚ ⲠⲈ ⲠⲈⲒⲢⲰⲘⲈ.	This man is not our teacher.
+
+Note that in the case where both subject and predicate are definite, the nominal element negated is, by definition, the predicate.
+
+Sentences with nominal predicates are converted to the status of relative clauses with ⲈⲦⲈ. For the moment we shall restrict ourselves to those clauses where ⲈⲦⲈ functions as the subject of the relative clause:
+
+ⲠⲢⲰⲘⲈ ⲈⲦⲈ ⲞⲨⲤⲀϨ ⲠⲈ 		The man who is a teacher
+ⲠⲢⲰⲘⲈ ⲈⲦⲈ Ⲛ̄ ⲞⲨⲤⲀϨ ⲀⲚ ⲠⲈ 	The man who is not a teacher.
+
+The phrase ⲈⲦⲈ ⲠⲀⲒ is frequently used to introduce explanatory material, much like English "namely, i.e., that is to say":
+
+ⲠⲈⲠⲤⲰⲦⲎⲢ ⲈⲦⲈ ⲠⲀⲒ ⲠⲈ Ⲓ̅Ⲥ̅ ⲠⲈⲬ̅Ⲥ̅	our savior, i.e. Jesus Christ
+
+5.2 The nearer demonstrative pronouns
+
+The nearer demonstrative pronouns (this, these) are ⲠⲀⲒ (m.s.), ⲦⲀⲒ (f.s.), ⲚⲀⲒ (pl.). They are frequently employed as subjects in sentences with nominal predicates:
+
+ⲚⲀⲒ ⲚⲈ ⲚⲈϤϢⲀϪⲈ.		These are his words.
+ⲠⲀⲒ ⲠⲈ ⲠⲀϪⲞⲒ.			This is my ship.
+ⲦⲀⲒ ⲞⲨϨⲘ̄ϨⲀⲖ ⲦⲈ.	}	This is a maidservant.
+ⲞⲨϨⲘ̄ϨⲀⲖ ⲦⲈ ⲦⲀⲒ.	}
+
+Vocabulary 5
+
+Ⲡ.ⲤⲀϨ							teacher, master, scribe.
+Ⲡ.ⲞⲨⲎⲎⲂ						priest (Christian or otherwise).
+Ⲡ.ϨⲀⲘϢⲈ (pl. Ⲛ̄.ϨⲀⲘϢⲎⲨⲈ)		carpenter.
+Ⲡ.ⲈⲢⲠⲈ, Ⲡ.Ⲣ̄ⲠⲈ (pl. Ⲛ̄.Ⲣ̄ⲠⲎⲨⲈ)	temple.
+Ⲡ.ⲘⲎⲎϢⲈ						crowd, throng.
+Ⲡ.ϨⲀⲒ							husband.
+Ⲧ.ϬⲞⲘ 							power, strength.
+Ⲧ.ⲘⲎⲦⲈ							middle, midst; Ⲛ̄/ϨⲚ̄ ⲦⲘⲎⲦⲈ Ⲛ̄ in the middle/midst of.
+Ⲡ.ϬⲀⲘⲞⲨⲖ (f. Ⲧ.ϬⲀⲘⲀⲨⲖⲈ)		camel.
+ⲘⲈϢⲀⲔ (adv.)					perhaps.
+
+ⲠⲈ.ⲬⲢⲒⲤⲦⲞⲤ		(ὁ χριστος)		the Christ, regularly abbr. ⲭ̅ⲥ̅.
+Ⲡ.ⲈⲨⲀⲄⲄⲈⲖⲒⲞⲚ	(τὁ εὐαγγἐλιον)	gospel
+Ⲧ.ⲠⲀⲢⲐⲈⲚⲞⲤ		(ἡ μαρⲑἐνος)	virgin; young woman.
+Ⲧ.ⲞⲢⲒⲚⲎ			(ἡ ὁρεινἠ)		mountain district, hill-country.
+Ⲡ.ⲀⲤⲠⲀⲤⲘⲞⲤ		(ὁ ἀσπασμὀσ)	greeting.
+Ⲡ.ⲤⲰⲦⲎⲢ		(ὁ σωτἠρ)		savior, redeemer; sometimes abbreviated as ⲥ̅ⲱ̅ⲣ̅.
+
+ⲈⲖⲒⲤⲀⲂⲈⲦ							Elizabeth.
+ⲘⲀⲢⲒⲀ							Mary.
+ⲒⲰⲤⲎⲪ							Joseph.
+ⲌⲀⲬⲀⲢⲒⲀⲤ							Zacharias.
+ⲒⲰϨⲀⲚⲚⲎⲤ						John.
+
+Exercises
+
+A.
+1. ⲞⲨϨⲚ̄ϨⲀⲖ ⲦⲈ Ⲛ̄ⲦⲈ ⲦⲀⲘⲀⲀⲨ.
+2. ⲞⲨⲦⲂ̄Ⲧ ⲠⲈ.
+3. ⲞⲨϪⲰⲰⲘⲈ ⲠⲈ Ⲛ̄ⲦⲈ ⲠⲈⲔⲤⲞⲚ.
+4. ⲞⲨⲠⲀⲢⲐⲈⲚⲞⲤ ⲦⲈ.
+5. ϨⲈⲚⲞⲨⲎⲎⲂ ⲚⲈ.
+6. ⲠϢⲎⲢⲈ Ⲛ̄ ⲦⲀⲤⲰⲚⲈ ⲠⲈ.
+7. ⲦϢⲈⲈⲢⲈ Ⲙ̄ ⲠϨⲀⲘϢⲈ ⲦⲈ.
+8. ⲦⲘⲀⲀⲨ Ⲙ̄ ⲠⲈⲚⲤⲰⲦⲎⲢ ⲦⲈ.
+9. ⲠⲈⲀⲘⲞⲨⲖ ⲠⲈ Ⲙ̄ ⲠⲈϤⲈⲒⲰⲦ.
+10. Ⲛ̄ ⲞⲨϪⲞⲒ ⲀⲚ ⲠⲈ.
+11. ⲞⲨⲚⲞⲂⲈ ⲠⲈ.
+12. Ⲛ̄ ⲞⲨⲚⲞⲨⲦⲈ ⲀⲚ ⲠⲈ.
+13. Ⲙ̄ ⲠⲈⲚⲎⲒ ⲀⲚ ⲠⲈ.
+14. ϨⲈⲚⲤⲀϨ ⲚⲈ.
+15. Ⲛ̄ⲈⲚⲦⲞⲖⲎ ⲚⲈ.
+
+B.
+1. ⲦⲀⲒ ⲦⲈ ⲦϬⲞⲘ Ⲙ̄ ⲠⲚⲞⲨⲦⲈ.
+2. ⲠⲀⲒ Ⲙ̄ ⲠⲈⲤϨⲀⲒ ⲀⲚ ⲠⲈ.
+3. ⲞⲨϬⲀⲘⲀⲨⲖⲈ ⲦⲈ ⲦⲀⲒ.
+4. ⲚⲀⲒ ⲚⲈ Ⲛ̄ϢⲀϪⲈ Ⲙ̄ ⲠⲈⲨⲀⲄⲄⲈⲖⲒⲞⲚ.
+5. ⲠⲈⲨϮⲘⲈ ϨⲚ̄ ⲦⲞⲠⲒⲚⲎ.
+6. ⲠⲈϤⲎⲒ Ⲛ̄ ⲦⲘⲎⲦⲈ Ⲛ̄ ⲦⲠⲞⲖⲒⲤ.
+7. ⲚⲀⲈⲒⲰⲦ ⲞⲨϨⲀⲘϢⲈ ⲠⲈ.
+8. ⲠⲈϤϢⲈⲢⲈ ⲞⲨⲞⲨⲎⲎⲂ ⲠⲈ.
+9. ϨⲈⲚⲞⲨⲎⲎⲂ ⲚⲈ ⲚⲈϤⲤⲚⲈⲨ.
+10. ⲘⲈϢⲀⲔ ⲠⲈⲤϨⲀⲒ ⲠⲈ.
+11. ⲠⲞⲨϨⲀⲒ ϨⲒⲠⲘ̄ ⲠⲢⲞ.
+12. ⲠⲈⲤⲢⲀⲚ ⲚⲈ ⲈⲖⲒⲤⲀⲂⲈⲦ.
+13. ⲈⲖⲒⲤⲀⲂⲈⲦ ⲦⲘⲀⲀⲨ ⲦⲈ Ⲛ̄ ⲒⲰϨⲀⲚⲚⲎⲤ.
+14. ⲒⲰϨⲀⲚⲚⲈⲤ ⲠⲈ ⲠϢⲈⲢⲈ Ⲛ̄ ⲌⲀⲬⲀⲢⲒⲀⲤ.
+15. ⲠⲀⲢⲀⲚ Ⲛ̄ ⲒⲰⲤⲎⲪ ⲀⲚ ⲠⲈ.
+16. ⲠⲈⲦⲚ̄ⲎⲒ ϨⲀϨⲦⲘ̄ ⲠⲈⲢⲠⲈ.
+17. ⲘⲈϢⲀⲔ ⲠⲈⲒⲢⲰⲘⲈ ⲠⲈ ⲠⲈⲬ̅Ⲥ̅.
+18. ⲠⲀⲒ ⲠⲈ ⲠⲀⲤⲠⲀⲤⲘⲞⲤ ⲦⲈ.
+19. ⲘⲀⲢⲒⲀ ⲞⲨⲠⲀⲢⲐⲈⲚⲞⲤ ⲦⲈ.
+20. ⲞⲨⲚ̄-ⲞⲨⲘⲎⲎϢⲈ Ⲛ̄ ⲦⲘⲎⲦⲈ Ⲛ̄ ⲦⲀⲄⲞⲢⲀ.
+21. ⲘⲚ̄-ⲈⲒⲢⲎⲚⲎ Ⲙ̄ ⲠⲈⲒⲘⲀ.
+22. ⲞⲨⲚ̄-ϨⲈⲚⲦⲘⲈ ϨⲚ̄ ⲦⲞⲢⲒⲚⲎ.
+23. ⲘⲈϢⲀⲔ ⲞⲨⲚ̄-ⲞⲨⲤⲀϨ ϨⲘ̄ ⲠϮⲘⲈ.
+24. ⲚⲀⲒ ⲚⲈ ⲚⲈⲚⲚⲞⲂⲈ.
+25. ϨⲈⲚⲞⲈⲒⲔ ⲚⲈ ⲚⲀⲒ.
+
+C.
+1. ⲚⲈⲦⲘⲈ ⲈⲦ Ⲛ̄ⲤⲀ ⲠⲦⲞⲞⲨ
+2. ⲠⲢⲰⲘⲈ ⲈⲦⲈ ⲞⲨⲈⲠⲒⲤⲔⲞⲠⲞⲤ ⲠⲈ
+3. ⲚⲈϢⲀⲬⲈ ⲈⲦⲈ ⲠⲈⲤⲀⲤⲠⲀⲤⲘⲞⲤ ⲚⲈ
+4. ⲚⲘⲎⲎϢⲈ ⲈⲦ ϨⲒϪⲘ̄ ⲠⲈⲔⲢⲞ
+5. ⲦϨⲖ̄ⲖⲰ ⲈⲦⲈ ⲞⲨⲠⲀⲢⲐⲈⲚⲞⲤ ⲦⲈ
+6. ⲚⲈϨⲒⲞⲞⲨⲈ ⲈⲦ ϨⲚ̄ ⲦⲞⲢⲒⲚⲎ
+7. ⲚⲈϪⲎⲨ ⲈⲦ ϨⲚ̄ ⲦⲘⲎⲦⲈ Ⲛ̄ ⲐⲀⲖⲀⲤⲤⲀ
+8. ⲠⲈⲬ̅Ⲥ̅, ⲈⲦⲈ ⲠⲀⲒ ⲠⲈ ⲠⲈⲚⲤⲰⲦⲎⲢ
+9. ⲠⲈⲢⲠⲈ, ⲈⲦⲈ ⲠⲀⲒ ⲠⲈ ⲠⲎⲒ Ⲙ̄ ⲠϪⲞⲈⲒⲤ
+10. ⲠⲈⲒϪⲰⲰⲘⲈ, ⲈⲦⲈ ⲠⲀⲒ ⲠⲈ ⲠⲈⲨⲀⲄⲄⲈⲖⲒⲞⲚ

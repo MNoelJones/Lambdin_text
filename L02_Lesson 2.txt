@@ -1,0 +1,121 @@
+Lesson 2
+
+2.1 The indefinite article
+
+The indefinite article for nouns of either gender is ⲞⲨ in the singular, ϨⲈⲚ in the plural, prefixed directly to the noun:
+
+ⲞⲨϪⲞⲒ		a ship
+ⲞⲨⲢⲰⲘⲈ		a man
+ⲞⲨϨⲒⲎ		a road
+
+ϨⲈⲚⲈϪⲎⲨ	ships, some ships
+ϨⲈⲚⲢⲰⲘⲈ	men, some men
+ϨⲈⲚϨⲒⲞⲞⲨⲈ	roads, some roads
+
+The plural indefinite article may be translated as "some, certain" or be omitted entirely in translation, as the context requires. The plural indefinite article is frequently written as ϩⲛ̄ and is easily confused with the preposition ϩⲛ̄. In the exercises to the lessons we shall always distinguish between the two, but in part of the Reading Selections the orthography of the source is maintained.
+
+Because the use of the Coptic articles, both definite and indefinite, corresponds closely to the use of the articles in English, only exceptions to this general correspondence will be noted in the following lessons when appropriate. References to the omission of the article require special attention. For the present lesson note that indefinite nouns designating unspecific quantities of a substance require an indefinite article in Coptic where there is none in English:
+
+ⲞⲨⲘⲞⲞⲨ 	water
+ϨⲈⲚⲞⲈⲒⲔ 	bread
+ϨⲈⲚⲀϤ 		meat
+
+The choice between the singular and plural article here is lexical, i.e. it depends on the particular noun. All such nouns, if definite and specific, may of course appear with the definite article: ⲠⲘⲞⲞⲨ, ⲠⲞⲈⲒⲔ, ⲠⲀϤ. Abstract nouns, such as ⲘⲈ truth, often appear with either article (ⲞⲨⲘⲈ, ⲦⲘⲈ) where English employs no article.
+
+2.2 Indefinite nouns cannot be used as subjects of sentences with adverbial predicates unless introduced by the word ⲞⲨⲚ̄- or its negative:
+
+ⲞⲨⲚ̅̅-ⲞⲨϨⲖ̄ⲖⲞ ϨⲒ ⲦⲈϨⲒⲎ.  A monk is on the road.
+
+ⲞⲨⲚ- is actually a predicator of existence ("there is, there are"), and the sentence given may also be translated as "There is a monk on the road."
+
+The negative of ⲞⲨⲚ- is ⲘⲚ̄- (also spelled Ⲙ̄̄̅ⲘⲚ̅-). In general, an *indefinite* article is deleted (omitted) in negation in Coptic:
+
+ⲘⲚ̅-ϨⲖ̅ⲖⲞ ϨⲒ ⲦⲈϨⲒⲎ.  There is no monk on the road.
+ⲘⲚ̅-ⲠⲰⲘⲈ ϨⲘ̅ ⲠⲎⲒ.  There is no man in the house.
+
+ⲞⲨⲚ- and ⲘⲚ̅- are not used before definite nouns.
+
+The sentence ⲠⲢⲰⲘⲈ ϨⲘ̅ ⲠⲎⲒ is negated by adding ⲀⲚ:
+
+ⲠⲢⲰⲘⲈ ϨⲘ̅ ⲠⲎⲒ ⲀⲚ. The man is not in the house.
+
+2.3 The genitive (or possessive) relationship between two nouns is expressed by the preposition Ⲛ̅ (of):
+
+ⲠⲎⲒ Ⲙ̅ ⲠⲢⲰⲘⲈ  the house of the man, the man's house
+ⲦϢⲈⲈⲢⲈ Ⲛ̅ ⲦⲈⲤϨⲒⲘⲈ  the woman's daughter
+
+If the first noun is indefinite, however, the preposition Ⲛ̅ⲦⲈ is used instead of Ⲛ̅:
+
+ⲞⲨϪⲰⲰⲘⲈ Ⲛ̅ⲦⲈ ⲠϨⲖ̅ⲖⲞ  a book of the monk
+ⲞⲨϨⲘ̅ϨⲀⲖ Ⲛ̅ⲦⲈ ⲠⲢ̅ⲢⲞ  a servant of the king
+
+Vocabulary 2
+
+Ⲡ.ϨⲘ̅ϨⲀⲖ, Ⲧ.ϨⲘ̅ϨⲀⲖ (ⲐⲘ̅ϨⲀⲖ)  slave, servant.
+Ⲡ.Ⲣ̅ⲢⲞ (pl. Ⲛ̅.Ⲣ̅ⲢⲰⲞⲨ)  king; Ⲧ.Ⲣ̅ⲢⲰ  queen.
+Ⲡ.ϪⲞⲒ (pl. Ⲛ̅.ⲈϪⲎⲨ)  ship, boat.
+ⲦⲈ.ⲘⲢⲰ (pl. Ⲛ̅.Ⲙ̅ⲢⲞⲞⲨⲈ)  harbour.
+Ⲡ.ⲘⲞⲞⲨ  water.
+Ⲡ.ⲈⲒⲈⲒⲢⲞ  river.
+Ⲡ.ⲦⲂ̅Ⲧ  fish.
+Ⲡ.ⲢⲀⲚ  name.
+Ⲡ.ⲞⲨⲞⲈⲒⲚ  light.
+Ⲧ.ⲠⲈ (pl. Ⲙ̅.ⲠⲎⲨⲈ)  sky, heaven.
+Ⲛ̅ (Ⲙ̅)  of.
+Ⲛ̅ⲦⲈ  of.
+ⲞⲨⲚ̅-  there is, there are.
+ⲘⲚ̅-, Ⲙ̅ⲘⲚ̅-  there is not, there are not.
+ⲈⲦⲂⲈ (prep.)  about, concerning; for the sake of, because of.
+ⲀⲚ  not.
+
+
+Exercises
+
+A.
+1. ϨⲒϪⲘ̅ ⲠϪⲞⲒ
+2. ϨⲀ ⲦⲠⲈ
+3. ϨⲚ̅ Ⲙ̅ⲠⲎⲨⲈ
+4. ⲈⲦⲂⲈ ⲠⲢ̅ⲢⲞ
+5. ⲘⲚ̅ ⲐⲘ̅ϨⲀⲖ
+6. ϨⲚ̅ ⲦⲈⲘⲢⲰ
+7. ϨⲒ ⲠⲈⲒⲈⲢⲞ
+8. ⲈⲦⲂⲈ ⲠⲚⲞⲨⲂ
+9. ϨⲚ̅ ⲚⲈⲘⲢⲞⲞⲨⲈ
+10. ϨⲀ ⲠϪⲞⲒ
+11. ⲈⲦⲂⲈ ϨⲈⲚⲢ̅ⲢⲰⲞⲨ
+12. ϨⲈⲚⲢⲰⲘⲈ ⲘⲚ̅ ϨⲈⲚϨⲒⲞⲘⲈ
+13. ϨⲈⲚⲦⲞⲞⲨ ⲘⲚ̅ ϨⲈⲚϨⲒⲞⲞⲨⲈ
+14. ϨⲀ ⲞⲨⲰⲚⲈ
+15. ϨⲒϪⲚ̅ ⲞⲨⲦⲞⲞⲨ
+16. ϨⲚ̅ ⲞⲨⲦⲂ̅Ⲧ
+17. ϨⲒ ϨⲈⲚⲎⲒ
+18. ⲘⲚ̅ ⲞⲨϨⲗ̄ⲗⲱ
+19. ⲈⲦⲂⲈ ⲞⲨϪⲰⲰⲘⲈ
+20. ⲈⲦⲂⲈ ⲠⲞⲨⲞⲈⲒⲚ
+
+b.
+1. Ⲛ̅ⲦⲂ̅Ⲧ Ⲙ̅ ⲠⲈⲒⲈⲢⲞ
+2. ⲚⲈϪⲎⲨ Ⲛ̅ Ⲛ̅ⲢⲰⲘⲈ
+3. Ⲛ̅ⲎⲒ Ⲙ̅ ⲠⲢ̅ⲢⲞ
+4. ⲠⲢⲀⲚ Ⲙ̅ ⲠϨⲖ̅ⲖⲞ
+5. ⲠⲞⲨⲞⲈⲒⲚ Ⲛ̅ ⲦⲠⲈ
+6. ⲠⲘⲞⲞⲨ Ⲛ̅ ⲦⲈⲘⲢⲰ
+7. ⲠⲢⲀⲚ Ⲛ̅ ⲦⲢ̅̅ⲢⲰ
+8. Ⲛ̅ϪⲰⲰⲘⲈ Ⲙ̅ ⲠϨⲖ̅ⲖⲞ
+9. ⲠⲘⲞⲞⲨ Ⲙ̅ ⲠⲈⲒⲈⲢⲞ
+10. ϨⲈⲚⲰⲚⲈ Ⲛ̅ⲦⲈ ⲠⲦⲞⲞⲨ
+11. ⲞⲨϨⲘ̅ϨⲀⲖ Ⲛ̅ⲦⲈ ⲠⲢ̅ⲢⲞ
+12. ⲦⲈⲤϨⲒⲘⲈ Ⲙ̅ ⲠϨⲘ̅ϨⲀⲖ
+
+c.
+1. ⲞⲨⲚ̅-ⲞⲨⲞⲨⲞⲈⲒⲚ ϨⲚ̅ Ⲙ̅ⲠⲎⲨⲈ.
+2. ⲘⲚ̅-ⲦⲂ̅Ⲧ ϨⲚ̅ ⲦⲈⲘⲢⲰ.
+3. ⲘⲚ̅-ⲘⲞⲞⲨ ϨⲘ̅ ⲠⲈⲒⲈⲢⲞ.
+4. ⲞⲨⲚ̅-ⲞⲨϨⲖ̅ⲖⲞ ⲦⲈϨⲒⲎ.
+5. ⲞⲨⲚ̅-ϨⲈⲚⲰⲚⲈ ϨⲚ̅ ⲦⲈⲘⲢⲰ.
+6. ⲘⲚ̅-ⲎⲒ ϨⲒϪⲘ̅ ⲠⲦⲞⲞⲨ.
+7. ⲚⲈϪⲎⲨ ϨⲒ ⲠⲈⲒⲈⲢⲞ ⲀⲚ.
+8. ⲘⲚ̅-ϪⲞⲒ ϨⲒ ⲠⲈⲒⲈⲢⲞ.
+9. Ⲛ̅ϪⲰⲰⲘⲈ ϨⲒϪⲘ̅ ⲠϪⲞⲒ ⲀⲚ.
+10. ⲘⲚ̅-ⲚⲞⲨⲂ ϨⲘ̅ ⲠⲎⲒ Ⲙ̅ ⲠϨⲘ̅ϨⲀⲖ.
+

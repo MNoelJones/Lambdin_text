@@ -1,0 +1,130 @@
+Lesson 4
+
+4.1
+
+Pronomial possession is indicated by inserting a bound form of the appropriate pronoun between the definite article and the noun so modified. It is best to learn the form, i.e. the article plus the pronoun, as a unit:
+
+			masc. sing. noun			fem. sing. noun
+sg. 1 com. 	ⲠⲀⲈⲒⲰⲦ		my father 		ⲦⲀⲘⲀⲀⲨ		my mother
+	2 masc.	ⲠⲈⲔⲈⲒⲰⲦ		your father		ⲦⲈⲔⲘⲀⲀⲨ	your mother
+	2 fem.	ⲠⲞⲨⲈⲒⲰⲦ		your father 	ⲦⲞⲨⲘⲀⲀⲨ	your mother
+	3 masc.	ⲠⲈϤⲈⲒⲰⲦ		his father		ⲦⲈϤⲘⲀⲀⲨ	his mother
+	3 fem.	ⲠⲈⲤⲈⲒⲰⲦ		her father		ⲦⲈⲤⲘⲀⲀⲨ	her mother
+pl. 1 com.	ⲠⲈⲚⲈⲒⲰⲦ		our father		ⲦⲈⲚⲘⲀⲀⲨ 	our mother
+	2 com.	ⲠⲈⲦⲚ̄ⲈⲒⲰⲦ 	your father		ⲦⲈⲦⲚ̄ⲘⲀⲀⲨ	your mother
+	3 com.	ⲠⲈⲨⲈⲒⲰⲦ		their father	ⲦⲈⲨⲘⲀⲀⲨ	their mother
+
+		plural noun (my brothers, etc.)
+sg. 1 com.	ⲚⲀⲤⲚⲎⲨ
+    2 masc.	ⲚⲈⲔⲤⲚⲎⲨ
+    2 fem.	ⲚⲞⲨⲤⲚⲎⲨ
+    3 masc.	ⲚⲈϤⲤⲚⲎⲨ
+    3 fem.	ⲚⲈⲤⲤⲚⲎⲨ
+pl. 1 com.	ⲚⲈⲚⲤⲚⲎⲨ
+	2 com.	ⲚⲈⲦⲚ̄ⲤⲚⲎⲨ
+	3 com.	ⲚⲈⲨⲤⲚⲎⲨ
+
+Note that there is a gender distinction in the second and third persons of the singular, but not of the plural. This is characteristic of all pronomial paradigms in Coptic. The term "common" (com.) refers to forms or categories where no gender distinction is made.
+
+4.2 The nearer demonstrative "this" is expressed by the forms
+
+masc. sing.	ⲠⲈⲒ-		fem. sing.	ⲦⲈⲒ-		com. pl.	ⲚⲈⲒ-
+
+prefixed directly to the noun:
+
+ⲠⲈⲒⲢⲰⲘⲈ	this man
+ⲦⲈⲒⲤϨⲒⲘⲈ		this woman
+ⲚⲈⲒⲤⲚⲎⲨ		these brothers
+
+After a noun with a demonstrative adjective the genitive is usually expressed by Ⲛ̄ⲦⲈ, as in
+
+ⲠⲈⲒϪⲰⲰⲘⲈ Ⲛ̄ⲦⲈ ⲠⲀⲤⲞⲚ	this book of my brother('s)
+
+4.3 The pronomial element -ⲔⲈ- inserted between the article and the noun expresses "other":
+
+ⲠⲔⲈⲢⲰⲘⲈ	the other man	Ⲛ̄ⲔⲈⲢⲰⲘⲈ	the other men
+
+-ⲔⲈ- may also be used after demonstrative or possessive prefixes:
+
+ⲠⲈⲒⲔⲈⲢⲰⲘⲈ	this other man	ⲠⲀⲔⲈϪⲞⲒ	my other ship
+
+-ⲔⲈ- is not inflected for number or gender in this usage.
+
+Vocabulary 4
+
+Ⲡ.ⲤⲞⲚ (ⲚⲈ.ⲤⲚⲎⲨ)  brother; often of a brother monk.
+Ⲧ.ⲤⲰⲚⲈ	sister
+Ⲛ.ⲈⲒⲰⲦ (Ⲛ̄.ⲈⲒⲞⲦⲈ) father; (pl.) parents, ancestors.
+Ⲧ.ⲘⲀⲀⲨ mother.
+Ⲡ.ⲚⲞⲂⲈ sin.
+Ⲡ.ⲎⲢⲠ̄ wine.
+Ⲡ.ⲞⲈⲒⲔ bread; piece or loaf of bread.
+Ⲡ.ⲘⲀ place; Ⲙ̄ ⲠⲈⲒⲘⲀ here, in this place.
+Ⲛ̄ⲤⲀ (prep.) behind, in back of.
+Ⲛ̄ (Ⲙ̄) (prep.) in; mostly synonymous with ϨⲚ̄.
+ϨⲀϨⲦⲚ̄, ϨⲀⲦⲚ̄ (ϨⲀϨⲦⲘ̄) (prep.) near, with, beside.
+
+Ⲡ.ⲔⲞⲤⲘⲞⲤ (ὁ κὀσμοσ) world.
+ϮⲢⲎⲚⲎ (ἡ εἰρἠνη) peace.
+Ⲡ.ⲈⲠⲒⲤⲔⲞⲠⲞⲤ (ὁ ἐπἰσκοπος) bishop.
+Ⲡ.ⲘⲞⲚⲬⲞⲤ (ὁ μοναχὀς) monk.
+Ⲧ.ⲈⲚⲦⲞⲖⲎ (ἡ ἐντολἠ) command, commandment.
+Ⲧ.ⲀⲄⲞⲢⲀ (ἡ ἀγοπἀ) agora, forum, marketplace.
+
+
+Exercises
+
+A.
+1. Ⲛ̄ⲤⲀ ⲚⲈϤⲘⲀⲐⲎⲦⲎⲤ
+2. ⲚⲀϨⲢⲘ̄ ⲠⲈⲨϪⲞⲈⲒⲤ
+3. ϨⲒϪⲘ̄ ⲠⲈϤⲦⲀⲪⲞⲤ
+4. ⲘⲚ̄ ⲦⲈϤϢⲈⲈⲢⲈ
+5. Ⲛ̄ⲤⲀ ⲠⲈⲤϢⲎⲢⲈ
+6. Ⲛ̄ⲚⲀϨⲢⲘ̄ ⲠⲈⲚϪⲞⲈⲒⲤ
+7. ϨⲒ ⲦⲈⲨⲈⲔⲔⲖⲈⲤⲒⲀ
+8. ⲈⲦⲂⲈ ⲠⲈⲦⲚ̄ϮⲘⲈ
+9. ϨⲚ̄ ⲦⲞⲨⲠⲞⲖⲒⲤ
+10. ϨⲘ̄ ⲠⲈⲒⲔⲞⲤⲘⲞⲤ
+11. ⲘⲚ̄ ⲠⲈⲒⲎⲢⲠ̄
+12. ⲘⲚ̄ ⲚⲈϤⲤⲚⲎⲨ
+13. ⲈⲦⲂⲈ ⲦⲈⲚⲤⲰⲚⲈ
+14. ϨⲘ̄ ⲠⲔⲈⲎⲒ
+15. ϨⲚ̄ ⲔⲈⲘⲀ
+
+B.
+1. Ⲛ̄ⲈⲚⲦⲞⲖⲎ Ⲛ̄ ⲚⲈⲚⲈⲒⲞⲦⲈ
+2. ⲠⲢⲀⲚ Ⲙ̄ ⲠⲀⲈⲒⲰⲦ
+3. ⲠⲢⲞ Ⲙ̄ ⲠⲈⲔⲎⲒ
+4. ⲠⲢⲞ Ⲙ̄ ⲠⲔⲈⲎⲒ
+5. ⲈⲦⲂⲈ ⲚⲈⲚⲚⲞⲂⲈ
+6. ϨⲀϨⲦⲘ̄ ⲠⲈⲚⲎⲒ
+7. ϨⲚ̄ ⲞⲨⲈⲒⲢⲎⲚⲎ
+8. Ⲛ̄ⲚⲀϨⲢⲘ̄ ⲠⲈⲚⲈⲠⲒⲤⲔⲞⲠⲞⲤ
+9. ⲦⲘⲀⲀⲨ Ⲛ̄ Ⲓ̅Ⲥ̅
+10. ⲠⲎⲢⲠ̄ Ⲛ̄ ⲚⲈⲒⲘⲞⲚⲀⲬⲞⲤ
+11. ⲠⲚⲞⲨⲂ Ⲙ̄ ⲠⲈⲨϪⲞⲈⲒⲤ
+12. ⲠⲢⲀⲚ Ⲛ̄ ⲦⲈⲦⲚ̄ⲘⲀⲀⲨ
+13. ϨⲀϨⲦⲚ̄ ⲦⲈⲔⲈⲔⲔⲖⲎⲤⲒⲀ
+14. ϨⲀϨⲦⲚ̄ ⲚⲈⲒⲦⲘⲈ
+15. ϨⲀ ⲚⲞⲨⲚⲞⲂⲈ
+16. ⲘⲚ̄ ⲚⲈⲦ Ⲙ̄ ⲠϮⲘⲈ
+17. ⲦⲈⲒⲈⲠⲒⲤⲦⲞⲖⲎ Ⲛ̄ⲦⲈ ⲠⲀⲨⲖⲞⲤ
+18. ⲠⲈⲒϪⲞⲒ Ⲛ̄ⲦⲈ ⲠⲈⲚϪⲞⲈⲒⲤ
+19. ϨⲚ̄ ⲦⲀⲄⲞⲢⲀ Ⲛ̄ ⲦⲠⲞⲖⲒⲤ
+
+C.
+1. ⲠⲈⲚϪⲞⲈⲒⲤ ϨⲒ ⲠϪⲞⲒⲀⲚ.
+2. ⲘⲚ̄-ⲎⲢⲠ̄ Ⲙ̄ ⲠⲈⲒⲘⲀ.
+3. ⲞⲨⲚ̄-ⲞⲨϨⲖ̄ⲖⲞ ϨⲒⲢⲚ̄ ⲦⲈⲔⲔⲖⲈⲤⲒⲀ.
+4. ⲘⲚ̄-ⲈⲒⲢⲎⲚⲎ ϨⲘ̄ ⲠⲈⲒⲔⲞⲤⲘⲞⲤ.
+5. ⲠⲀⲈⲒⲰⲦ ⲘⲚ̄ ⲦⲀⲘⲀⲀⲨ ϨⲘ̄ ⲠⲈⲒ.
+6. ⲞⲨⲚ̄-ϨⲈⲚⲞⲈⲒⲔ Ⲙ̄ⲘⲀⲨ.
+7. ⲠⲈⲚⲤⲞⲚ ϨⲒ ⲠⲈⲔⲢⲞ Ⲛ̄ ⲐⲀⲖⲀⲤⲤⲀ.
+8. ⲞⲨⲚ̄-ⲞⲨϪⲞⲒ ϨⲀϨⲦⲘ̄ ⲠⲈⲔⲢⲞ.
+9. ⲞⲨⲚ̄-ⲞⲨϨⲖ̄ⲖⲰ ϨⲒⲢⲘ̄ ⲠⲢⲞ Ⲙ̄ ⲠⲈϤⲎⲒ.
+10. ⲚⲈⲚⲤⲚⲎⲨ ϨⲒϪⲘ̄ ⲠⲦⲞⲞⲨ.
+11. ⲠⲞⲨⲤⲞⲚ ϨⲘ̄ ⲠⲦⲀⲪⲞⲤ ⲀⲚ.
+12. ⲠⲈⲦⲚ̄ⲈⲒⲰⲦ ϨⲒ ⲠⲀϪⲞⲒ.
+13. ⲠⲈⲚϪⲞⲒ ϨⲚ̄ ⲦⲈⲘⲢⲰ.
+14. ⲠⲈϤϪⲰⲰⲘⲈ ϨⲒ ⲠⲰⲚⲈ ⲈⲦ Ⲙ̄ⲘⲀⲨ.
+15. ⲘⲚ̄-ϨⲒⲎ Ⲙ̄ ⲠⲘⲀ ⲈⲦ Ⲙ̄ⲘⲀⲨ.

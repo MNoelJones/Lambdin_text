@@ -1,0 +1,136 @@
+Lesson 3
+
+3.1 Relative Clauses
+
+A we shall see in subsequent lessons, relative clauses in Coptic exhibit a variety of forms, depending on the type of predication involved. In the present lesson we shall consider only those relative clauses associated with sentences with adverbial  predicates. Note the transformation
+
+ⲠⲢⲰⲘⲈ ϨⲘ̅ ⲠⲎⲒ -> (ⲠⲢⲰⲘⲈ) ⲈⲦ ϨⲘ̅ ⲠⲈⲒ
+
+The man is in the house -> (The man) who is in the house
+
+The relative pronoun ⲈⲦ functions here as the subject of the relative clause; it is not inflected for number or gender:
+
+ⲦⲈⲤϨⲒⲘⲈ ⲈⲦ ϨⲒ ⲦⲈϨⲒⲎ  the woman who is on the road
+Ⲛ̅ϨⲖ̅ⲖⲞ ⲈⲦ ϨⲚ̅ ⲐⲈⲚⲈⲈⲦⲈ  the monks who are in the monastery
+
+Negation is with ⲀⲚ: Ⲛ̅ϨⲖ̅ⲖⲞ ⲈⲦ ϨⲚ̅ ⲐⲈⲚⲈⲈⲦⲈ ⲀⲚ.
+
+Relative clauses cannot be used to modify an indefinite noun. This is an *important general rule* of Coptic.
+
+Any relative clause may be substantivized, i.e. converted to the status of a noun, by prefixing the appropriate form of the definite article:
+
+ⲠⲈⲦ ϨⲘ̅ ⲠⲎⲒ     the one who (he who, that which) is in the house
+ⲦⲈⲦ ⲘⲚ̅ ⲠϢⲎⲢⲈ  the one (f.) who is with the boy
+ⲚⲈⲦ ϨⲒ ⲠϪⲞⲒ    those who (those things which) are on the ship
+
+Such constructions may refer to persons or things, depending on the context.
+
+The relative clause ⲈⲦ Ⲙ̅ⲘⲀⲨ, who (which) is there, is used to express the further demonstrative "that":
+
+ⲠⲢⲰⲘⲈ ⲈⲦ Ⲙ̅ⲘⲀⲨ  that man
+ⲚⲈⲬⲎⲨ ⲈⲦ Ⲙ̅ⲘⲀⲨ  those ships
+
+3.2 Greek Nouns
+
+The typical Coptic text contains a large number of Greek loanwords. Greek masculine and femenine nouns retain their gender; Greek neuter nouns are treated as masculine:
+
+ο αγγελος	ⲠⲀⲄⲄⲈⲖⲞⲤ	the angel
+η επιστολη	ⲦⲈⲠⲒⲤⲦⲞⲖⲎ	the letter
+η φυχη		ⲦⲈⲮⲨⲬⲎ		the soul
+το πυευμα	ⲠⲈⲠⲚⲈⲨⲘⲀ	the spirit
+το δωρου	ⲠⲀⲰⲢⲞⲚ		the gift
+
+Greek nouns appear in the nominative singuler form of Greek and are usually not inflected in any way. Occasionally, however, a Coptic plural ending is added to a Greek noun:
+
+Ⲛ̅ⲈⲠⲒⲤⲦⲞⲖⲞⲞⲨⲈ	the letters
+ⲚⲈⲮⲨⲬⲞⲞⲨⲈ		the souls
+
+The Greek noun η ϑαλασσα (the sea) was borrowed as Ⲧ.ϨⲀⲖⲀⲤⲤⲀ, i.e. θ was taken as the definite article plus ϩ. Thus, "a sea" is ⲞⲨϨⲀⲖⲀⲤⲤⲀ.
+
+Initial χ, φ, ϑ, ψ, ξ of Greek nouns are considered two consonants in attaching the definite article (cf. Intro. , p. x).
+
+ⲦⲈ.ⲬⲰⲢⲀ					the country
+ⲚⲈ.ⲪⲒⲖⲞⲤⲞⲪⲞⲤ			the philosopher
+ⲦⲈ.ⲮⲨⲬⲎ					the soul
+ⲦⲈ.ⲐⲨⲤⲒⲀ				the offering
+
+Vocabulary 3
+
+Ⲡ.ϮⲘⲈ (pl. ⲚⲈ.ⲦⲘⲈ)		town, village.
+Ⲡ.ⲢⲞ Ⲛ̅.ⲢⲰⲞⲨ			door, gate.
+Ⲡ.ϪⲞⲈⲒⲤ (Ⲛ̄.ϪⲒⲤⲞⲞⲨⲈ)		master, owner, lord; w. art, the lord.
+Ⲡ.ⲚⲞⲨⲦⲈ					god; w. art, God.
+Ⲡ.ⲈⲔⲢⲞ (Ⲛ.ⲈⲔⲢⲰⲞⲨ)		shore, bank, margin-land.
+Ⲡ.ⲔⲀⲔⲈ					darkness.
+Ⲡ.ϢⲎⲢⲈ					son, child, boy.
+Ⲧ.ϢⲈⲈⲢⲈ					daughter, girl.
+Ⲙ̅ⲘⲀⲨ					(adv.) there, in that place.
+ϨⲒⲢⲚ̅ (ϨⲒⲢⲘ̅)				(prep.) at the mouth or entrance of.
+ⲚⲀϨⲢⲚ̅ Ⲛ̅ⲚⲀϨⲢⲚ̅ (ⲚⲀϨⲢⲘ̅)	in the presence of, before.
+
+Greek nouns:
+ⲐⲀⲖⲀⲤⲤⲀ 				sea, ocean.
+Ⲧ.ⲠⲞⲖⲒⲤ					city.
+Ⲧ.ⲈⲠⲒⲤⲦⲞⲖⲎ				letter.
+Ⲡ.ⲀⲄⲄⲈⲖⲞⲤ				angel, messenger.
+Ⲡ.ⲦⲀⲪⲞⲤ					tomb.
+Ⲛ.ⲘⲀⲐⲎⲦⲎⲤ				pupil, disciple.
+Ⲧ.ⲈⲔⲔⲖⲎⲤⲒⲀ				church.
+
+ⲠⲀⲨⲖⲞⲤ					Paul.
+ⲒⲎⲤⲞⲨⲤ 					Jesus; almost always abbreviated in Coptic texts: Ⲓ̅Ⲥ̅, Ⲓ̅Ⲏ̅Ⲥ̅.
+
+Exercises
+
+A.
+1. ϨⲒⲢⲚ̄ ⲦⲈⲔⲔⲖⲎⲤⲒⲀ
+2. Ⲛ̄ⲚⲀϨⲢⲘ̄ ⲠⲢ̄ⲢⲞ
+3. ϨⲘ̄ ⲠⲦⲀⲪⲞⲤ
+4. ⲘⲚ̄ Ⲙ̄ⲘⲀⲐⲎⲦⲎⲤ
+5. ⲠⲢⲞ Ⲙ̄ ⲠϪⲞⲒ
+6. ⲚϪⲞⲈⲒⲤ Ⲙ̄ ⲠϪⲞⲒ
+7. Ⲛ̄ϪⲒⲤⲞⲞⲨⲈ
+8. ⲦϢⲈⲈⲢⲈ Ⲙ̄ ⲠϨⲘ̄ϨⲀⲖ
+9. ϨⲒϪⲘ̄ ⲠⲢⲞ Ⲙ̄ ⲠⲎⲒ
+10. ⲞⲨⲈⲔⲔⲖⲎⲤⲒⲀ Ⲛ̄ⲦⲈ ⲠϮⲘⲈ
+11. ⲞⲨⲈⲠⲒⲤⲦⲞⲖⲎ Ⲛ̄ⲦⲈ ⲠⲀⲨⲖⲞⲤ
+12. Ⲙ̄ⲘⲀⲐⲎⲦⲎⲤ Ⲛ̄ Ⲓ̅Ⲥ̅
+13. ϨⲘ̄ ⲠⲢⲀⲚ Ⲙ̄ ⲠϪⲞⲈⲒⲤ
+14. ⲚⲀϨⲠⲘ̄ ⲠⲚⲞⲨⲦⲈ
+15. ⲠⲈⲔⲢⲞ Ⲙ̄ ⲠⲈⲒⲈⲢⲞ
+16. ϨⲒϪⲘ̄ ⲠⲈⲔⲢⲞ Ⲛ̄ ⲐⲀⲖⲀⲤⲤⲀ
+17. ϨⲚ̄ ⲞⲨⲔⲀⲔⲈ
+18. ϨⲒϪⲘ̄ ⲠⲢⲞ Ⲙ̄ ⲠⲦⲀⲪⲞⲤ
+19. Ⲛ̄ϪⲰⲰⲘⲈ Ⲙ̄ ⲠⲘⲀⲐⲎⲦⲎⲤ
+20. Ⲛ̄ⲢⲰⲘⲈ Ⲛ̄ ⲚⲈⲦⲘⲈ
+
+B.
+1. ⲠⲰⲚⲈ ⲈⲦ ϨⲚ̄ ⲦⲈⲘⲠⲰ
+2. Ⲙ̄ⲘⲀⲐⲎⲦⲎⲤ ⲈⲦ ⲘⲚ̄ Ⲓ̅Ⲥ̅
+3. ⲠⲔⲀⲔⲈ ⲈⲦ ϨⲒϪⲚ̄ ⲦⲠⲞⲖⲒⲤ
+4. Ⲛ̄ⲈⲔⲔⲖⲎⲤⲒⲀ ⲈⲦ ϨⲚ̄ ⲦⲠⲞⲖⲒⲤ
+5. ⲠⲞⲨⲞⲈⲒⲚ ⲈⲦ ϨⲚ̄ ⲐⲀⲖⲀⲤⲤⲀ
+6. Ⲛ̄ⲦⲂ̄Ⲧ ⲈⲦ ϨⲚ̄ ⲐⲀⲖⲀⲤⲤⲀ
+7. ⲚϨⲘ̄ϨⲀⲖ ⲈⲦ Ⲛ̄ⲚⲀϨⲢⲘ̄ ⲠϪⲞⲈⲒⲤ
+8. ⲠⲘⲞⲞⲨ ⲈⲦ ϨⲘ̄ ⲠⲈⲒⲈⲢⲞ
+9. Ⲛ̄ⲀⲄⲄⲈⲖⲞⲤ ⲈⲦ ϨⲚ̄ Ⲙ̄ⲠⲨⲈ
+10. Ⲛ̄ϨⲖ̄ⲖⲞ ⲈⲦ ϨⲘ̄ ⲠⲦⲞⲞⲨ
+11. Ⲛ̄ⲢⲰⲘⲈ Ⲛ̄ ⲦⲠⲞⲖⲒⲤ ⲈⲦ Ⲙ̄ⲘⲀⲨ
+12. ⲚⲈⲦⲘⲈ ⲈⲦ Ⲙ̄ⲘⲀⲨ
+13. Ⲙ̄ⲘⲀⲐⲎⲦⲎⲤ Ⲙ̄ ⲠⲢⲰⲘⲈ ⲈⲦ Ⲙ̄ⲘⲀⲨ
+14. Ⲛ̄ϢⲎⲢⲈ Ⲙ̄ ⲠϨⲘ̄ϨⲀⲖ ⲈⲦ Ⲙ̄ⲘⲀⲨ
+15. ⲚⲈϪⲈⲨ ⲈⲦ ϨⲒϪⲘ̄ ⲠⲈⲔⲢⲞ Ⲙ̄ ⲠⲈⲒⲈⲢⲞ
+
+C.
+1. ⲠⲚⲞⲨⲦⲈ ϨⲚ̄ ⲦⲠⲈ.
+2. ⲘⲚ̄̅ⲈⲔⲔⲖⲎⲤⲒⲀ ϨⲘ̄ ⲠϮⲘⲈ ⲈⲦ Ⲙ̄ⲘⲀⲨ.
+3. ⲞⲨⲚ̄-ⲞⲨⲀⲄⲄⲈⲖⲞⲤ ϨⲒⲢⲘ̄ ⲠⲢⲞ Ⲙ̄ ⲠⲦⲀⲪⲞⲤ.
+4. Ⲛ̄ⲈⲠⲒⲤⲦⲞⲖⲎ ⲘⲚ̄ Ⲛ̄ϪⲰⲰⲘⲈ.
+5. ⲘⲚ̄-ϪⲰⲰⲘⲈ Ⲙ̄ⲘⲀⲨ.
+6. ⲞⲨⲚ̄-ⲞⲨⲘⲀⲐⲎⲦⲎⲤ Ⲛ̄ⲦⲈ ⲠⲀⲨⲖⲞⲤ ϨⲒϪⲘ̄ ⲠⲢⲞ.
+7. ⲘⲚ̄-ⲞⲨⲞⲈⲒⲚ ϨⲘ̄ ⲠⲔⲀⲔⲈ.
+8. ⲠϪⲞⲈⲒⲤ Ⲙ̄ ⲠⲎⲒ ϨⲘ̄ ⲠⲎⲒ ⲀⲚ.
+9. ⲠϪⲞⲒ ϨⲒϪⲘ̄ ⲠⲈⲒⲈⲢⲞ ⲀⲚ.
+10. Ⲛ̄ϢⲎⲢⲈ Ⲙ̄ ⲠϮⲘⲈ ϨⲒ ⲦⲈϨⲒⲎ.
+11. ⲞⲨⲚ̄-ϨⲈⲚⲦⲀⲪⲞⲤ ϨⲚ̄ ⲚⲈⲔⲢⲰⲞⲨ ⲈⲦ Ⲙ̄ⲘⲀⲨ.
+12. ⲞⲨⲚ̄-ⲞⲨⲔⲀⲔⲈ ϨⲒϪⲚ̄ ⲦⲠⲞⲖⲒⲤ.
