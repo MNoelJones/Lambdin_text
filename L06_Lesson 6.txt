@@ -1,0 +1,81 @@
+Lesson 6
+
+6.1 The independent personal pronouns
+
+ⲀⲚⲞⲔ		I
+Ⲛ̄ⲦⲞⲔ		you (m.s.)
+Ⲛ̄ⲦⲞ 		you (f.s.)
+Ⲛ̄ⲦⲞϤ		he, it (m.)
+Ⲛ̄ⲦⲞⲤ		she, it (f.)
+ⲀⲚⲞⲚ		we
+Ⲛ̄ⲦⲰⲦⲚ̄		you (c.pl.)
+Ⲛ̄ⲦⲞⲞⲨ		they (c.p.)
+
+These pronouns occur frequently in sentences with ⲡⲉ, ⲧⲉ, ⲛⲉ. When used as predicates in a two-member sentence, they are invariably followed by ⲡⲉ:
+
+ⲀⲚⲞⲔ ⲠⲈ.	It is I.
+Ⲛ̄ⲦⲞⲤ ⲠⲈ.	It is she.
+ⲀⲚⲞⲚ ⲠⲈ.	It is we.
+
+In three-member sentences they may appear in ordinary subject or predicate positions:
+
+Ⲛ̄ⲦⲞϤ ⲠⲈ ⲠⲈⲬ̅Ⲥ̅.			He is Christ.
+Ⲛ̄ⲦⲞϤ ⲞⲨⲚⲞⲨⲦⲈ ⲠⲈ.		He is a god.
+ⲚⲈϤϨⲘ̄ϨⲀⲖ ⲚⲈ ⲀⲚⲞⲚ.	We are his servants.
+
+In sentences with an indefinite nominal predicate a special construction without ⲠⲈ is used with the pronouns of the 1st and 2nd person; negation is with ⲀⲚ alone:
+
+ⲀⲚⲞⲔ ⲞⲨϨⲀⲘϢⲈ (ⲀⲚ).	I am (not) a carpenter.
+ⲀⲚⲞⲚ ϨⲈⲚⲞⲨⲎⲎⲂ. 		We are priests.
+
+In this construction a reduced proclitic form of the pronoun is very often used:
+
+ⲀⲚⲄ̄-		I
+Ⲛ̄ⲦⲔ̄-		you (m.s.)
+Ⲛ̄ⲦⲈ-		you (f.s.)
+ⲀⲚ-			we
+Ⲛ̄ⲦⲈⲦⲚ̄-	you (c.pl.)
+
+as in:
+
+ⲀⲚⲄ̄-ⲞⲨⲀⲄⲄⲈⲖⲞⲤ (ⲀⲚ).	I am (not) an angel.
+Ⲛ̄ⲦⲔ̄-ⲞⲨϨⲀⲘϢⲈ.			You are a carpenter.
+Ⲛ̄ⲦⲈⲦⲚ̄-ϨⲈⲚⲘⲀⲐⲎⲦⲎⲤ.	You are pupils.
+
+A 3rd person masc. form ⲛ̄ⲧϥ̄- also occurs, but is very rare. The reduced forms of the 1st and 2nd person pronouns may also be used with a definite predicate, but this construction is rather infrequent:
+
+ⲀⲚⲄ̄-ⲐⲘ̄ϨⲀⲖ Ⲙ̄ ⲠϪⲞⲈⲒⲤ.	I am the handmaiden of the Lord.
+
+6.2 The interrogative pronouns.
+
+ⲚⲒⲘ		who?
+ⲀϢ		what?
+ⲟⲩ 		what?
+
+These pronouns are used in sentences with ⲚⲈ, ⲦⲈ, ⲚⲈ:
+
+ⲚⲒⲘ ⲠⲈ?				Who is it?
+ⲀϢ ⲠⲈ?				What is it?
+ⲚⲒⲘ ⲠⲈ ⲠⲈⲒⲢⲰⲘⲈ?	Who is this man?
+ⲚⲒⲘ ⲠⲈ ⲠⲈⲔⲢⲀⲚ?		What is your name? (note idiom)
+ⲞⲨ ⲠⲈ ⲠⲀⲒ?			What is this?
+ⲞⲨ ⲠⲈ ⲚⲀⲒ?			What are these?
+
+The interrogative pronoun normally stands first. The choice of number and gender for the copula depends on the understood or expressed  subject. The pronoun ⲞⲨ is also found with the indefinite article:
+
+ⲞⲨⲞⲨ ⲠⲈ?			What is it? (lit.: It is a what?)
+ϨⲈⲚⲞⲨ ⲚⲈ?			What are they (lit.: They are whats?)
+
+When the subject is a personal pronoun of the 1st or 2nd person, it may be placed before ⲚⲒⲘ or ⲞⲨ in normal or proclitic form:
+
+Ⲛ̄ⲦⲔ̄-ⲚⲒⲘ
+Ⲛ̄ⲦⲞⲔ ⲞⲨⲞⲨ
+
+The personal pronoun may be repeated for emphasis:
+
+ⲀⲚⲄ̄-ⲚⲒⲘ ⲀⲚⲞⲔ?	Who am I?
+
+Note that ⲚⲒⲘ may also be used in ordinary genitive constructions:
+
+ⲠϢⲎⲢⲈ Ⲛ̄ ⲚⲒⲘ?	Whose son?
+
