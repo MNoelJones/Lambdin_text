@@ -24,10 +24,10 @@ There are two other ways in which nominal subjects may be used in a verbal phras
 ⲠⲢⲰⲘⲈ ⲀϤⲂⲰⲔ		the man went
 ⲦⲈⲤϨⲒⲘⲈ ⲀⲤⲂⲰⲔ		the woman went
 
-or (2) they may stand after the verbal unit, again with a pronominal subject, introduced by the element Ⲛ̄ⲈⲒ:
+or (2) they may stand after the verbal unit, again with a pronominal subject, introduced by the element Ⲛ̄ϬⲒ:
 
-ⲀϤⲂⲰⲔ Ⲛ̄ⲈⲒ ⲠⲢⲰⲘⲈ 		the man went
-ⲀⲤⲂⲰⲔ Ⲛ̄ⲈⲒ ⲦⲈⲤϨⲒⲘⲈ		the woman went
+ⲀϤⲂⲰⲔ Ⲛ̄ϬⲒ ⲠⲢⲰⲘⲈ 		the man went
+ⲀⲤⲂⲰⲔ Ⲛ̄ϬⲒ ⲦⲈⲤϨⲒⲘⲈ		the woman went
 
 All three constructions are common and differ only in the emphasis accorded the subject. When the verbal prefix is followed by the indefinite article, the resulting Ⲁ-ⲞⲨ... may be spelled ⲀⲨ..., as in
 
@@ -81,7 +81,7 @@ Exercises
 
 1. Ⲁ-ⲚⲈⲤⲚⲎⲨ ⲂⲰⲔ Ⲉ ⲦⲠⲞⲖⲒⲤ 
 2. ⲠϢⲈⲢⲈ ⲀϤⲈⲒ Ⲉ ⲠⲈⲚⲎⲒ
-3. ⲀⲤⲂⲰⲔ Ⲛ̄ⲈⲒ ⲦⲈϤⲤⲰⲚⲈ ⲈⲢⲘ̄ ⲠⲢⲞ Ⲛ̄ ⲦⲈⲔⲔⲖⲎⲤⲒⲀ
+3. ⲀⲤⲂⲰⲔ ⲚϬⲒ ⲦⲈϤⲤⲰⲚⲈ ⲈⲢⲘ̄ ⲠⲢⲞ Ⲛ̄ ⲦⲈⲔⲔⲖⲎⲤⲒⲀ
 4. ⲀⲨⲈⲒ Ⲛ̄ⲤⲀ ⲚⲈⲨϢⲎⲢⲈ
 5. Ⲁ-ⲦⲈϤⲘⲀⲀⲨ ⲘⲞⲞϢⲈ Ⲉ ⲠⲦⲀⲪⲞⲤ
 6. Ⲁ-ⲚⲈϤⲘⲀⲐⲎⲦⲎⲤ ⲀⲖⲈ Ⲉ ⲠϪⲞⲒ
