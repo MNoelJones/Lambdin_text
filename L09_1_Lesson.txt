@@ -4,19 +4,19 @@ Lesson 9
 
 A pronominal object of a preposition is expressed by means of a suffixed form of the pronoun. The preposition itself assumes a prepronominal form which must be learned with each preposition. For example, the preposition Ⲉ becomes ⲈⲢⲞ⸗ before pronominal suffixes. The mark ⸗ is a convention used in Coptic grammars to indicate any form to which a pronominal suffix is to be added. The prepronominal forms of the prepositions introduced thus far are as follows:
 
-Ⲛ̄	Ⲙ̄ⲘⲞ⸗
-ϨⲚ̄	Ⲛ̄ϨⲎⲦ⸗
-ϨⲀ	ϨⲀⲢⲞ⸗
-ϨⲒ	ϨⲒⲰ(Ⲱ)⸗
-ⲘⲚ̄	ⲚⲘ̄ⲘⲀ⸗
-ϢⲀ	ϢⲀⲢⲞ⸗
-Ⲉ 	ⲈⲢⲞ⸗
+Ⲛ̄		Ⲙ̄ⲘⲞ⸗
+ϨⲚ̄		Ⲛ̄ϨⲎⲦ⸗
+ϨⲀ		ϨⲀⲢⲞ⸗
+ϨⲒ		ϨⲒⲰ(Ⲱ)⸗
+ⲘⲚ̄		ⲚⲘ̄ⲘⲀ⸗
+ϢⲀ		ϢⲀⲢⲞ⸗
+Ⲉ 		ⲈⲢⲞ⸗
 ϨⲒϪⲚ̄	ϨⲒϪⲰ⸗
-ⲈϪⲚ̄		ⲈϪⲰ⸗
+ⲈϪⲚ̄	ⲈϪⲰ⸗
 ϨⲒⲦⲚ̄	ϨⲒⲦⲞⲞⲦ⸗
-Ⲛ̄ⲤⲀ		Ⲛ̄ⲤⲰ⸗
-ϨⲒⲢⲚ̄		ϨⲒⲢⲰ⸗
-ⲈⲢⲚ̄		ⲈⲢⲰ⸗
+Ⲛ̄ⲤⲀ	Ⲛ̄ⲤⲰ⸗
+ϨⲒⲢⲚ̄	ϨⲒⲢⲰ⸗
+ⲈⲢⲚ̄	ⲈⲢⲰ⸗
 ⲚⲀϨⲢⲚ̄	ⲚⲀϨⲢⲀ⸗
 ϨⲀϨⲦⲚ̄	ϨⲀϨⲦⲎ⸗
 ⲞⲨⲂⲈ	ⲞⲨⲂⲎ⸗
@@ -42,4 +42,54 @@ The nouns contained in these expressions will be dealt with in a later lesson.
 
 Typical inflections of these prepositions are as follows:
 
+ⲉⲣⲟⲓ
+ⲉⲣⲟⲕ
+ⲉⲣⲟ
+ⲉⲣⲟϥ
+ⲉⲣⲟⲥ
+
+ⲉⲣⲟⲛ
+ⲉⲣⲱⲧⲛ̄
+
+ⲉⲣⲟⲟⲩ
+
+ⲛⲙ̄ⲙⲁⲓ
+ⲛⲙ̄ⲙⲁⲕ
+ⲛⲙ̄ⲙⲉ
+ⲛⲙ̄ⲙⲁϥ
+ⲛⲙ̄ⲙⲁⲥ
+
+ⲛⲙ̄ⲙⲁⲛ
+ⲛⲙ̄ⲙⲛⲧⲛ̄
+ⲛⲙ̄ⲙⲁⲩ
+
+ⲛ̄ϩⲏⲧ
+ⲛ̄ϩⲏⲧⲕ̄
+ⲛ̄ϩⲏⲧⲉ
+ⲛ̄ϩⲏⲧϥ̄
+ⲛ̄ϩⲏⲧⲥ̄
+
+ⲛ̄ϩⲏⲧⲛ̄
+ⲛ̄ϩⲏⲧ-ⲧⲏⲩⲧⲛ
+ⲛ̄ϩⲏⲧⲟⲩ
+
+ⲟⲩⲃⲏⲓ
+ⲟⲩⲃⲏⲕ
+ⲟⲩⲃⲏⲧⲉ
+ⲟⲩⲃⲏϥ
+ⲟⲩⲃⲏⲥ
+
+ⲟⲩⲃⲏⲛ
+ⲟⲩⲃⲉ-ⲧⲏⲩⲧⲛ
+ⲟⲩⲃⲏⲩ
+
+ⲉⲧⲃⲏⲏⲧ
+ⲉⲧⲃⲏⲏⲧⲕ̄
+ⲉⲧⲃⲏⲏⲧⲉ
+ⲉⲧⲃⲏⲏⲧϥ̄
+ⲉⲧⲃⲏⲏⲧⲥ̄
+
+ⲉⲧⲃⲏⲏⲧⲛ̄
+ⲉⲧⲃⲉ-ⲧⲏⲩⲧⲛ̄
+ⲉⲧⲃⲏⲏⲧⲟⲩ
 
