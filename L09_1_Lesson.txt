@@ -42,19 +42,19 @@ The nouns contained in these expressions will be dealt with in a later lesson.
 
 Typical inflections of these prepositions are as follows:
 
-ⲉⲣⲟⲓ
-ⲉⲣⲟⲕ
-ⲉⲣⲟ
-ⲉⲣⲟϥ
-ⲉⲣⲟⲥ
+ⲉⲣⲟⲓ				to me
+ⲉⲣⲟⲕ				to you (m.s.)
+ⲉⲣⲟ 				to you (f.s.)
+ⲉⲣⲟϥ				to him
+ⲉⲣⲟⲥ				to her
 
-ⲉⲣⲟⲛ
-ⲉⲣⲱⲧⲛ̄
+ⲉⲣⲟⲛ 			to us
+ⲉⲣⲱⲧⲛ̄ 			to you (pl.)
 
-ⲉⲣⲟⲟⲩ
+ⲉⲣⲟⲟⲩ 			to them
 
-ⲛⲙ̄ⲙⲁⲓ
-ⲛⲙ̄ⲙⲁⲕ
+ⲛⲙ̄ⲙⲁⲓ 			with me
+ⲛⲙ̄ⲙⲁⲕ 			etc.
 ⲛⲙ̄ⲙⲉ
 ⲛⲙ̄ⲙⲁϥ
 ⲛⲙ̄ⲙⲁⲥ
@@ -63,8 +63,8 @@ Typical inflections of these prepositions are as follows:
 ⲛⲙ̄ⲙⲛⲧⲛ̄
 ⲛⲙ̄ⲙⲁⲩ
 
-ⲛ̄ϩⲏⲧ
-ⲛ̄ϩⲏⲧⲕ̄
+ⲛ̄ϩⲏⲧ 			in me
+ⲛ̄ϩⲏⲧⲕ̄ 			etc.
 ⲛ̄ϩⲏⲧⲉ
 ⲛ̄ϩⲏⲧϥ̄
 ⲛ̄ϩⲏⲧⲥ̄
@@ -73,8 +73,8 @@ Typical inflections of these prepositions are as follows:
 ⲛ̄ϩⲏⲧ-ⲧⲏⲩⲧⲛ
 ⲛ̄ϩⲏⲧⲟⲩ
 
-ⲟⲩⲃⲏⲓ
-ⲟⲩⲃⲏⲕ
+ⲟⲩⲃⲏⲓ 			against me
+ⲟⲩⲃⲏⲕ 			etc.
 ⲟⲩⲃⲏⲧⲉ
 ⲟⲩⲃⲏϥ
 ⲟⲩⲃⲏⲥ
@@ -83,8 +83,8 @@ Typical inflections of these prepositions are as follows:
 ⲟⲩⲃⲉ-ⲧⲏⲩⲧⲛ
 ⲟⲩⲃⲏⲩ
 
-ⲉⲧⲃⲏⲏⲧ
-ⲉⲧⲃⲏⲏⲧⲕ̄
+ⲉⲧⲃⲏⲏⲧ 			because of me
+ⲉⲧⲃⲏⲏⲧⲕ̄ 		etc.
 ⲉⲧⲃⲏⲏⲧⲉ
 ⲉⲧⲃⲏⲏⲧϥ̄
 ⲉⲧⲃⲏⲏⲧⲥ̄
@@ -93,3 +93,22 @@ Typical inflections of these prepositions are as follows:
 ⲉⲧⲃⲉ-ⲧⲏⲩⲧⲛ̄
 ⲉⲧⲃⲏⲏⲧⲟⲩ
 
+The prepronominal form of ϩⲓ appears as both ϩⲓⲱ⸗ and ϩⲓⲱⲱ⸗; typical forms are
+
+ϩⲓⲱⲱⲧ
+ϩⲓⲱⲱⲕ ϩⲓⲱⲕ
+ϩⲓⲱⲱⲧⲉ
+ϩⲓⲱⲱϥ ϩⲓⲱϥ
+ϩⲓⲱⲱⲥ ϩⲓⲱⲥ
+
+ϩⲓⲱⲱⲏ ϩⲓⲱⲏ
+ϩⲓ-ⲧⲏⲩⲧⲛ̄
+ϩⲓⲱⲟⲩ
+
+The following details on the forms of suffixed pronouns in general should be noted for future reference:
+
+1) The 1st pers. sing. suffix appears as ⲓ after a single vowel, as zero (nothing) after -ⲧ⸗, and as ⲧ elsewhere.
+
+2) The suffix of the 2nd pers. fem. sing. appears as zero after a single vowel other than -ⲁ⸗, as -ⲉ in place of a single -ⲁ⸗, as -ⲉ after -ⲧ⸗ and as -ⲧⲉ elsewhere.
+
+3) The suffix of the 2nd pers. pl. appears as -ⲧⲛ̄ after single -ⲟ⸗, -ⲁ⸗, -ⲱ⸗, with the change of -ⲟ⸗ to -ⲱ⸗ and -ⲁ⸗ to -ⲏ⸗. After -ⲧ⸗ one uses -ⲧⲏⲩⲧⲛ̄. Elsewhere -ⲧⲏⲩⲧⲛ̄ is usually added to the prenominal form of the preposition or other form in question, as in ϩⲁϩⲧⲛ̄-ⲧⲏⲩⲧⲛ̄.
