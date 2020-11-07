@@ -12,11 +12,11 @@ A pronominal object of a preposition is expressed by means of a suffixed form of
 ϢⲀ		ϢⲀⲢⲞ⸗
 Ⲉ 		ⲈⲢⲞ⸗
 ϨⲒϪⲚ̄	ϨⲒϪⲰ⸗
-ⲈϪⲚ̄	ⲈϪⲰ⸗
+ⲈϪⲚ̄		ⲈϪⲰ⸗
 ϨⲒⲦⲚ̄	ϨⲒⲦⲞⲞⲦ⸗
-Ⲛ̄ⲤⲀ	Ⲛ̄ⲤⲰ⸗
-ϨⲒⲢⲚ̄	ϨⲒⲢⲰ⸗
-ⲈⲢⲚ̄	ⲈⲢⲰ⸗
+Ⲛ̄ⲤⲀ		Ⲛ̄ⲤⲰ⸗
+ϨⲒⲢⲚ̄		ϨⲒⲢⲰ⸗
+ⲈⲢⲚ̄		ⲈⲢⲰ⸗
 ⲚⲀϨⲢⲚ̄	ⲚⲀϨⲢⲀ⸗
 ϨⲀϨⲦⲚ̄	ϨⲀϨⲦⲎ⸗
 ⲞⲨⲂⲈ	ⲞⲨⲂⲎ⸗
@@ -42,73 +42,73 @@ The nouns contained in these expressions will be dealt with in a later lesson.
 
 Typical inflections of these prepositions are as follows:
 
-ⲉⲣⲟⲓ				to me
-ⲉⲣⲟⲕ				to you (m.s.)
-ⲉⲣⲟ 				to you (f.s.)
-ⲉⲣⲟϥ				to him
-ⲉⲣⲟⲥ				to her
+ⲈⲢⲞⲒ				to me
+ⲈⲢⲞⲔ			to you (m.s.)
+ⲈⲢⲞ 			to you (f.s.)
+ⲈⲢⲞϤ			to him
+ⲈⲢⲞⲤ			to her
 
-ⲉⲣⲟⲛ 			to us
-ⲉⲣⲱⲧⲛ̄ 			to you (pl.)
+ⲈⲢⲞⲚ 			to us
+ⲈⲢⲰⲦⲚ̄ 			to you (pl.)
 
-ⲉⲣⲟⲟⲩ 			to them
+ⲈⲢⲞⲞⲨ 			to them
 
-ⲛⲙ̄ⲙⲁⲓ 			with me
-ⲛⲙ̄ⲙⲁⲕ 			etc.
-ⲛⲙ̄ⲙⲉ
-ⲛⲙ̄ⲙⲁϥ
-ⲛⲙ̄ⲙⲁⲥ
+ⲚⲘ̄ⲘⲀⲒ 			with me
+ⲚⲘ̄ⲘⲀⲔ 			etc.
+ⲚⲘ̄ⲘⲈ
+ⲚⲘ̄ⲘⲀϤ
+ⲚⲘ̄ⲘⲀⲤ
 
-ⲛⲙ̄ⲙⲁⲛ
-ⲛⲙ̄ⲙⲛⲧⲛ̄
-ⲛⲙ̄ⲙⲁⲩ
+ⲚⲘ̄ⲘⲀⲚ
+ⲚⲘ̄ⲘⲚⲦⲚ̄
+ⲚⲘ̄ⲘⲀⲨ
 
-ⲛ̄ϩⲏⲧ 			in me
-ⲛ̄ϩⲏⲧⲕ̄ 			etc.
-ⲛ̄ϩⲏⲧⲉ
-ⲛ̄ϩⲏⲧϥ̄
-ⲛ̄ϩⲏⲧⲥ̄
+Ⲛ̄ϨⲎⲦ 			in me
+Ⲛ̄ϨⲎⲦⲔ̄ 			etc.
+Ⲛ̄ϨⲎⲦⲈ
+Ⲛ̄ϨⲎⲦϤ̄
+Ⲛ̄ϨⲎⲦⲤ̄
 
-ⲛ̄ϩⲏⲧⲛ̄
-ⲛ̄ϩⲏⲧ-ⲧⲏⲩⲧⲛ
-ⲛ̄ϩⲏⲧⲟⲩ
+Ⲛ̄ϨⲎⲦⲚ̄
+Ⲛ̄ϨⲎⲦ-ⲦⲎⲨⲦⲚ
+Ⲛ̄ϨⲎⲦⲞⲨ
 
-ⲟⲩⲃⲏⲓ 			against me
-ⲟⲩⲃⲏⲕ 			etc.
-ⲟⲩⲃⲏⲧⲉ
-ⲟⲩⲃⲏϥ
-ⲟⲩⲃⲏⲥ
+ⲞⲨⲂⲎⲒ 			against me
+ⲞⲨⲂⲎⲔ 			etc.
+ⲞⲨⲂⲎⲦⲈ
+ⲞⲨⲂⲎϤ
+ⲞⲨⲂⲎⲤ
 
-ⲟⲩⲃⲏⲛ
-ⲟⲩⲃⲉ-ⲧⲏⲩⲧⲛ
-ⲟⲩⲃⲏⲩ
+ⲞⲨⲂⲎⲚ
+ⲞⲨⲂⲈ-ⲦⲎⲨⲦⲚ
+ⲞⲨⲂⲎⲨ
 
-ⲉⲧⲃⲏⲏⲧ 			because of me
-ⲉⲧⲃⲏⲏⲧⲕ̄ 		etc.
-ⲉⲧⲃⲏⲏⲧⲉ
-ⲉⲧⲃⲏⲏⲧϥ̄
-ⲉⲧⲃⲏⲏⲧⲥ̄
+ⲈⲦⲂⲎⲎⲦ 			because of me
+ⲈⲦⲂⲎⲎⲦⲔ̄ 		etc.
+ⲈⲦⲂⲎⲎⲦⲈ
+ⲈⲦⲂⲎⲎⲦϤ̄
+ⲈⲦⲂⲎⲎⲦⲤ̄
 
-ⲉⲧⲃⲏⲏⲧⲛ̄
-ⲉⲧⲃⲉ-ⲧⲏⲩⲧⲛ̄
-ⲉⲧⲃⲏⲏⲧⲟⲩ
+ⲈⲦⲂⲎⲎⲦⲚ̄
+ⲈⲦⲂⲈ-ⲦⲎⲨⲦⲚ̄
+ⲈⲦⲂⲎⲎⲦⲞⲨ
 
-The prepronominal form of ϩⲓ appears as both ϩⲓⲱ⸗ and ϩⲓⲱⲱ⸗; typical forms are
+The prepronominal form of ϨⲒ appears as both ϨⲒⲰ⸗ and ϨⲒⲰⲰ⸗; typical forms are
 
-ϩⲓⲱⲱⲧ
-ϩⲓⲱⲱⲕ ϩⲓⲱⲕ
-ϩⲓⲱⲱⲧⲉ
-ϩⲓⲱⲱϥ ϩⲓⲱϥ
-ϩⲓⲱⲱⲥ ϩⲓⲱⲥ
+ϨⲒⲰⲰⲦ
+ϨⲒⲰⲰⲔ ϨⲒⲰⲔ
+ϨⲒⲰⲰⲦⲈ
+ϨⲒⲰⲰϤ ϨⲒⲰϤ
+ϨⲒⲰⲰⲤ ϨⲒⲰⲤ
 
-ϩⲓⲱⲱⲏ ϩⲓⲱⲏ
-ϩⲓ-ⲧⲏⲩⲧⲛ̄
-ϩⲓⲱⲟⲩ
+ϨⲒⲰⲰⲎ ϨⲒⲰⲎ
+ϨⲒ-ⲦⲎⲨⲦⲚ̄
+ϨⲒⲰⲞⲨ
 
 The following details on the forms of suffixed pronouns in general should be noted for future reference:
 
-1) The 1st pers. sing. suffix appears as ⲓ after a single vowel, as zero (nothing) after -ⲧ⸗, and as ⲧ elsewhere.
+1) The 1st pers. sing. suffix appears as ⲓ after a single vowel, as zero (nothing) after -Ⲧ⸗, and as Ⲧ elsewhere.
 
-2) The suffix of the 2nd pers. fem. sing. appears as zero after a single vowel other than -ⲁ⸗, as -ⲉ in place of a single -ⲁ⸗, as -ⲉ after -ⲧ⸗ and as -ⲧⲉ elsewhere.
+2) The suffix of the 2nd pers. fem. sing. appears as zero after a single vowel other than -Ⲁ⸗, as -Ⲉ in place of a single -Ⲁ⸗, as -Ⲉ after -Ⲧ⸗ and as -ⲦⲈ elsewhere.
 
-3) The suffix of the 2nd pers. pl. appears as -ⲧⲛ̄ after single -ⲟ⸗, -ⲁ⸗, -ⲱ⸗, with the change of -ⲟ⸗ to -ⲱ⸗ and -ⲁ⸗ to -ⲏ⸗. After -ⲧ⸗ one uses -ⲧⲏⲩⲧⲛ̄. Elsewhere -ⲧⲏⲩⲧⲛ̄ is usually added to the prenominal form of the preposition or other form in question, as in ϩⲁϩⲧⲛ̄-ⲧⲏⲩⲧⲛ̄.
+3) The suffix of the 2nd pers. pl. appears as -ⲦⲚ̄ after single -Ⲟ⸗, -Ⲁ⸗, -Ⲱ⸗, with the change of -Ⲟ⸗ to -Ⲱ⸗ and -Ⲁ⸗ to -Ⲏ⸗. After -Ⲧ⸗ one uses -ⲦⲎⲨⲦⲚ̄. Elsewhere -ⲦⲎⲨⲦⲚ̄ is usually added to the prenominal form of the preposition or other form in question, as in ϨⲀϨⲦⲚ̄-ⲦⲎⲨⲦⲚ̄.
