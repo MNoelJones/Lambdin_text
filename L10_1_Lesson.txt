@@ -1,0 +1,58 @@
+Lesson 10
+
+10.1 The Direct Object.
+
+The direct object of a transitive verb is usually introduced with the preposition Ⲛ̄ (Ⲙ̄, Ⲙ̄ⲘⲞ⸗):
+
+ⲀϤⲔⲰⲦ Ⲛ̄ ⲞⲨⲎⲒ.		He built a house.
+ⲀϤⲔⲰⲦ Ⲙ̄ⲘⲞϤ.		He built it.
+
+Many verbs, especially those denoting perception, employ Ⲉ:
+
+ⲀⲚⲤⲰⲦⲘ̄ Ⲉ ⲠⲈϤϨⲠⲞⲞⲨ.		We heard his voice.
+ⲀⲚⲤⲰⲦⲘ̄ ⲈⲢⲞϤ.				We heard it.
+
+Occasionally other prepositions assume this function, as for example Ⲛ̄ⲤⲀ in
+
+ⲀϤϢⲒⲚⲈ Ⲛ̄ⲤⲀ ⲦⲈϤⲤⲒⲘⲈ.		He looked for his wife.
+ⲀϤϢⲒⲚⲈ Ⲛ̄ⲤⲰⲤ.				He looked for her.
+
+The appropriate preposition for each transitive verb will be given in the lesson vocabularies when a verv is introduced.
+
+10.2 The Indirect Object (Dative).
+
+An indirect object, if present, is introduced with the preposition Ⲛ̄ (ⲚⲀ⸗, inflected like ⲚⲘ̄ⲘⲀ⸗ in ss9.1):
+
+ⲀⲒϮ Ⲙ̄ ⲠϪⲰⲰⲘⲈ Ⲙ̄ ⲠⲢⲰⲘⲈ.		I gave the book to the man.
+ⲀⲒϮ ⲚⲀϤ Ⲙ̄ ⲠϪⲰⲰⲘⲈ.			I gave him the book.
+ⲀⲒϮ Ⲙ̄ⲘⲞϤ ⲚⲀϤ.					I gave it to him.
+
+It is unfortunate that the prenominal forms of the most frequent direct and indirect object markers are the same (Ⲛ̄, Ⲙ̄ before Ⲡ and Ⲙ). In general the direct object precedes the indirect object unless the direct object is nominal and the indirect object is pronominal. In the latter case either order is correct, but there is a preference for placing the indirect object first. The preposition Ⲉ (ⲈⲢⲞ⸗) also often marks what Greek and English regard as an indirect object (dative).
+
+10.3 The Negative of the First Perfect.
+
+The negative forms of the First Perfect are not formally related to the positive forms:
+
+Ⲙ̄ⲠⲒⲂⲰⲔ		I did not go
+Ⲙ̄ⲠⲈⲔⲂⲰⲔ	you (m.s.) did not go
+Ⲙ̄ⲠⲈⲂⲰⲔ 	you (f.s.) did not go
+Ⲙ̄ⲠⲈϤⲂⲰⲔ	he did not go
+Ⲙ̄ⲠⲈⲤⲂⲰⲔ	she did not go
+
+Ⲙ̄ⲠⲈⲚⲂⲰⲔ 	we did not go
+Ⲙ̄ⲠⲈⲦⲚ̄ⲂⲰⲔ	you (pl.) did not go
+Ⲙ̄ⲠⲞⲨⲂⲰⲔ	they did not go
+
+With a nominal subject: Ⲙ̄ⲠⲈ-ⲠⲢⲰⲘⲈ ⲂⲰⲔ the man did not go.
+
+Variant spellings such as Ⲙ̄ⲠⲔ̄- Ⲙ̄ⲠϤ̄- Ⲙ̄ⲠⲚ̄- are not uncommon.
+
+10.4
+
+As noted in Lesson 9, many prepositions consist of a simple preposition compounded with a noun. The nouns occurring in these expressions belong to a special group which take pronominal suffixes to indicate possession. We shall deal with the more important of these individually in later lessons, but for the moment note ⲦⲞⲞⲦ⸗, the pre-suffixal from of ⲦⲰⲢⲈ (hand). The absolute form ⲦⲰⲢⲈ survives only in the special meanings "handle, tool, spade" and in some compound verbal expressions (see Glossary); in the sense of "hand" it has been replaced by ϬⲒϪ. Prepositions compounded with ⲦⲞⲞⲦ⸗, such as ϨⲒⲦⲞⲞⲦ⸗, ⲈⲦⲞⲞⲦ⸗, Ⲛ̄ⲦⲞⲞⲦ⸗, often employ a construction with an anticipatory pronominal object before the real nominal object, the latter being introduced by the particle Ⲛ̄ (Ⲙ̄):
+
+ϨⲒⲦⲞⲞⲦϤ̄ Ⲙ̄ ⲠⲢ̄ⲢⲞ			by (through the agency of) the king
+ⲈⲦⲞⲞⲦⲞⲨ Ⲛ̄ ⲚⲈϤⲤⲚⲎⲨ		to (into the hands of) his brothers
+Ⲛ̄ⲦⲞⲞⲦⲤ̄ Ⲛ̄ ⲦⲈϤⲤϨⲒⲘⲈ		from (from the hand of) his wife.
+
+This same construction is also occasionally found with the other prepositions inroduced thus far.
