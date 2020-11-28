@@ -4,35 +4,35 @@ Lesson 8
 
 Coptic possesses a set of directional adverbs which correspond very closely to English adverbs of the type "up, down, in, out, over, along, etc." As with their English counterparts, the directional meanings found with verbs of motion are for all practical purposes the basic meanings (e.g. to go up, to sink down, to run in), but extended uses are equally common (e.g. to shut up, to quiet down, to think over). The Coptic directional adverbs consist formally of the preposition Ⲉ plus a noun, with or without the definite article. Most of the nouns in question are seldom met outside of these particular expressions and will be considered in more detail in a later lesson. Because these adverbs are so frequent, we shall follow the practice of other editors and write them as single units. The following eight are the most important:
 
-ⲈⲂⲞⲖ 		out, away
-ⲈϨⲞⲨⲚ 		in
-ⲈϨⲢⲀⲒ 		up, down
-ⲈⲠⲈⲤⲎⲦ 		down
-ⲈⲐⲎ 		forward, ahead
-ⲈⲠⲀϨⲞⲨ 	back, rearward
-ⲈⲦⲠⲈ 		upward
-ⲈⲠϢⲰⲒ 		upward
+ⲈⲂⲞⲖ 				out, away
+ⲈϨⲞⲨⲚ 				in
+ⲈϨⲢⲀⲒ 				up, down
+ⲈⲠⲈⲤⲎⲦ 				down
+ⲈⲐⲎ 				forward, ahead
+ⲈⲠⲀϨⲞⲨ 			back, rearward
+ⲈⲦⲠⲈ 				upward
+ⲈⲠϢⲰⲒ 				upward
 
 The adverbs may be used alone, as in
 
-ⲀϤⲂⲰⲔ ⲈⲂⲞⲖ.	He went away.
+ⲀϤⲂⲰⲔ ⲈⲂⲞⲖ.		He went away.
 ⲀϤⲈⲒ ⲈϨⲞⲨⲚ.		He came in.
-ⲀϤⲠⲰⲦ ⲈⲠⲀϨⲞⲨ.	He ran back.
+ⲀϤⲠⲰⲦ ⲈⲠⲀϨⲞⲨ.		He ran back.
 
 But they very frequently combine with a simple preposition to form a compound prepositional phrase. Among the most frequent of these are
 
-ⲈⲂⲞⲖ Ⲉ 			out to, away to.
-ⲈⲂⲞⲖ ϨⲚ̄ 		out of, out from in, away from; (rarely) out into.
-ⲈⲂⲞⲖ Ⲙ̄ⲘⲞ 		same as preceding.
-ⲈⲂⲞⲖ ϨⲒ 		away from on, out from on, away from at.
-ⲈⲂⲞⲖ ϨⲒⲦⲚ̄ 		(1) away from (a person); (2) through, out through (a place); (3) through the agency of (a person or thing).
-ⲈϨⲞⲨⲚ Ⲉ 		to, into, toward.
-ⲈϨⲢⲀⲒ Ⲉ 		up to, down to.
-ⲈϨⲢⲀⲒ ⲈϪⲚ̄ 		up onto, down upon.
-ⲈⲠⲈⲤⲎⲦ Ⲉ 		down to, down into, down onto, down on.
-ⲈⲠⲈⲤⲎⲦ ⲈϪⲚ̄ 	down onto, down on.
-ⲈⲠⲀϨⲞⲨ Ⲉ 		back to.
-ⲈⲐⲎ Ⲉ 			ahead to, forward to.
+ⲈⲂⲞⲖ Ⲉ 				out to, away to.
+ⲈⲂⲞⲖ ϨⲚ̄ 			out of, out from in, away from; (rarely) out into.
+ⲈⲂⲞⲖ Ⲙ̄ⲘⲞ 			same as preceding.
+ⲈⲂⲞⲖ ϨⲒ 			away from on, out from on, away from at.
+ⲈⲂⲞⲖ ϨⲒⲦⲚ̄ 			(1) away from (a person); (2) through, out through (a place); (3) through the agency of (a person or thing).
+ⲈϨⲞⲨⲚ Ⲉ 			to, into, toward.
+ⲈϨⲢⲀⲒ Ⲉ 			up to, down to.
+ⲈϨⲢⲀⲒ ⲈϪⲚ̄ 			up onto, down upon.
+ⲈⲠⲈⲤⲎⲦ Ⲉ 			down to, down into, down onto, down on.
+ⲈⲠⲈⲤⲎⲦ ⲈϪⲚ̄ 		down onto, down on.
+ⲈⲠⲀϨⲞⲨ Ⲉ 			back to.
+ⲈⲐⲎ Ⲉ 				ahead to, forward to.
 
 The meaning of most such compounds when used with verbs of motion is generally self-evident, but caution is in order when dealing with their use with other verbs. The dictionary should always be consulted to check on idiomatic and unpredictable meanings.
 
